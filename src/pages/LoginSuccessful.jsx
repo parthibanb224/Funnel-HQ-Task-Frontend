@@ -16,7 +16,7 @@ const LoginSuccessful = () => {
                         <p className="text-gray-700 text-md mb-4">
                             Congratulations! You have successfully logged in.
                         </p>
-                        <Link to="/dashboard" className="text-blue-500 hover:underline">
+                        <Link className="text-blue-500 hover:underline">
                             Go to Dashboard
                         </Link>
                         <div className="mt-4">
